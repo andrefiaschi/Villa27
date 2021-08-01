@@ -97,3 +97,7 @@ article div {
     background-color: var(--verdeT);
     transition: 150ms ease-in-out;
 }
+
+.fas, .fab {
+    margin: 10px;
+}
